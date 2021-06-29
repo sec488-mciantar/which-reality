@@ -36,7 +36,7 @@ if (command_exist("apache2")) {
     }
 }
 
-echo $WEBPROG . "<br/>";
+echo $WEBPROG . "<br/>"; 
 
 echo "PHP Version: " . phpversion() . "<br/>";
 ?>
